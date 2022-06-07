@@ -1,0 +1,8 @@
+JOptionPane.showMessageDialog(null,"New Task Description:" + "/n" +
+                "Task name: "+ R_L.getTaskName()+"\n"+
+                 "Task Number: "+ R_L.getTaskNumber()+"\n"+
+                 "Task Description: "+ R_L.getTaskDescription()+"\n"+
+                 "Developer Details: "+ R_L.getDeveloperDetails()+"\n"+
+                 "Task Duration: "+ R_L.getTaskDuration()+"\n"+
+                 "Task ID: "+ R_L.getTaskID()+"\n" +
+                "Task Status: "+ R_L.getTaskStatus()+"\n");
